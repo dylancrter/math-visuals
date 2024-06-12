@@ -44,10 +44,10 @@ To get started, install python on your machine and follow these steps:
 
 Each script is designed to be run independently. Below are some examples on how to run each scipt:
 
-**Mandelbrot Set**
+1. **Mandelbrot Set**
 
-```sh
-python3 mandelbrot-set/mandelbrot-set.py
+   ```sh
+   python3 mandelbrot-set/mandelbrot-set.py
 
 ## License
 
